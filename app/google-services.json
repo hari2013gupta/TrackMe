@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "423152043188",
+    "firebase_url": "https://stalwart-star-345.firebaseio.com",
+    "project_id": "stalwart-star-345"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423152043188:android:3870b74967282d95",
+        "android_client_info": {
+          "package_name": "com.dev.hari.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423152043188-t0nm6n55t9mdm7lavnsa0eqacpso7b0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUG_UMGC3x58a-im6TVDOc_QqwUj_nvDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
